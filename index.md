@@ -7,3 +7,7 @@
 $ echo Hello World!
 Hello World!
 ```
+
+- [ ] One
+- [x] Two
+- [ ] Three
